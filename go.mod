@@ -1,3 +1,3 @@
-module dev.azure.com/schwarzit/traefik-plugin
+module traefik-plugin
 
 go 1.21.6
